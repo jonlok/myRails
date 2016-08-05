@@ -24,6 +24,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise_token_auth'
 
 gem 'omniauth'
+gem 'nokogiri'
 
 gem 'rack-cors', :require => 'rack/cors'
 
